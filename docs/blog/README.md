@@ -13,6 +13,11 @@ blog:
   time: Srinivasan Ramaswamy. Jul. 26th, 2020
   short: In managing Service Mesh Health, Asking `How are you' is more profound than `What are your symptoms'. Apdex goes a long way in helping this.
 
+- title: What’s new in SkyWalking? MeterSystem and mesh monitoring in 8.0
+  name: 2020-06-15-skywalking8-0-release
+  time: Sheng Wu, Hongtao Gao, and Tevah Platt. June 15, 2020
+  short: SkyWalking extends its functionality with the new release by addressing user demand for metrics integration with other metrics collection systems, including Prometheus.
+  
 - title: SkyWalking hits 200 contributors mark
   name: 2020-01-20-celebrate-200th-contributor
   time: Sheng Wu. Jan. 20st, 2020
